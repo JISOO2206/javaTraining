@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class surprise {
+public class Surprise {
 
     public static void main(String[] args) {
 

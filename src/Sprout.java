@@ -1,4 +1,4 @@
-public class sprout {
+public class Sprout {
 
     public static void main(String[] args) {
         System.out.println("         ,r'\"7");

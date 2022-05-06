@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class howOldAmIInThailand {
+public class HowOldAmIInThailand {
 
     public static void main(String[] args) {
 
