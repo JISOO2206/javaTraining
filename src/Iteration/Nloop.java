@@ -1,0 +1,18 @@
+package Iteration;
+
+import java.util.Scanner;
+
+public class Nloop {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
+
+        for(int i = 0; i<N; N--){
+            System.out.println("N의 값"+N);
+        }
+
+    }
+
+}

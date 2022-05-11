@@ -1,3 +1,5 @@
+package conditionalstatements;
+
 import java.util.Scanner;
 
 public class OvenClock {
